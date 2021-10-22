@@ -1,0 +1,3 @@
+- hello we're verbatim (lost library collective), and this is our code hole!
+- currently we simply use this to report issues and make suggestions for things we use on github, but we're hoping to use this account to contribute code to projects we love once our coding skills have improved!
+- 🦀
